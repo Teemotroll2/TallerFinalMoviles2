@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "902304991209",
+    "project_id": "buyandsellricooo",
+    "storage_bucket": "buyandsellricooo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902304991209:android:58516ab2e9200ffbe1ad78",
+        "android_client_info": {
+          "package_name": "com.example.buyandsellricofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902304991209-8q6r76h51jo8a0ne2bnrp72iemgfqpdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMMMHOxT_c-sUOY5R_ifsM76ewMH8z348"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902304991209-8q6r76h51jo8a0ne2bnrp72iemgfqpdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902304991209:android:8e4070aaee9cb3bae1ad78",
+        "android_client_info": {
+          "package_name": "com.example.buyandsellricooo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902304991209-8q6r76h51jo8a0ne2bnrp72iemgfqpdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMMMHOxT_c-sUOY5R_ifsM76ewMH8z348"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902304991209-8q6r76h51jo8a0ne2bnrp72iemgfqpdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
